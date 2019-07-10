@@ -2,8 +2,8 @@
 
 Backend with Node.js
 
-[![Language][language-image]]
-[![LanguageCount][languagecount-image]]
+![Language][language-image]
+![LanguageCount][languagecount-image]
 [![Build Status][travis-image]][travis-url]
 [![Last Commit][lastcommit-image]][lastcommit-url]
 [![Issues][issues-image]][issues-url]
