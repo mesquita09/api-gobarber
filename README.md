@@ -2,14 +2,15 @@
 
 Backend with Node.js
 
-[![NPM Version][npm-image]][npm-url]
+[![Language][language-image]]
+[![LanguageCount][languagecount-image]]
 [![Build Status][travis-image]][travis-url]
 [![Last Commit][lastcommit-image]][lastcommit-url]
 [![Issues][issues-image]][issues-url]
 
-Project developed at the RocketSeat GoStack Bootcamp using Node.js
+Project developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br) using Node.js, for a barber scheduling app.
 
-## Technologies
+## Development Using
 
 - Node.js
 - Express
@@ -25,14 +26,10 @@ Project developed at the RocketSeat GoStack Bootcamp using Node.js
 - JWT
 - VS Code with ESLint
 
-## Meta
-
-Adelson Mesquita – [Get in Touch](https://www.linkedin.com/in/adelsonmesquita/) – mesquita.adelson@gmail.com
-
 <!-- Markdown link & img dfn's -->
 
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
+[language-image]: https://img.shields.io/github/languages/top/mesquita09/api-gobarber.svg
+[languagecount-image]: https://img.shields.io/github/languages/count/mesquita09/api-gobarber.svg
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [lastcommit-image]: https://img.shields.io/github/last-commit/mesquita09/api-gobarber.svg
