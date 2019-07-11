@@ -1,12 +1,10 @@
 # GoBarber
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d20792ff896d4ab2981307d37e88c19f)](https://app.codacy.com/app/mesquita09/api-gobarber?utm_source=github.com&utm_medium=referral&utm_content=mesquita09/api-gobarber&utm_campaign=Badge_Grade_Dashboard)
-
 Backend with Node.js
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d20792ff896d4ab2981307d37e88c19f)](https://app.codacy.com/app/mesquita09/api-gobarber?utm_source=github.com&utm_medium=referral&utm_content=mesquita09/api-gobarber&utm_campaign=Badge_Grade_Dashboard)
 ![Language][language-image]
 ![LanguageCount][languagecount-image]
-[![Build Status][travis-image]][travis-url]
 [![Last Commit][lastcommit-image]][lastcommit-url]
 [![Issues][issues-image]][issues-url]
 
