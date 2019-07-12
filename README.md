@@ -1,4 +1,4 @@
-# GoBarber
+# GoBarber App
 
 Backend with Node.js
 
@@ -11,21 +11,17 @@ Backend with Node.js
 
 Project developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br) using Node.js, for a barber scheduling app.
 
-## Development Using
+## Languages and Tools
 
-- Node.js
-- Express
-- nodemon
-- Sucrase
-- Docker
-- Sequelize
-- PostgreSQL
-- node-postgres
-- Redis
-- MongoDB
-- Mongoose
-- JWT
-- VS Code with ESLint
+<center>
+| -  Node.js | -  PostgreSQL |
+| -  Express | -  node |
+| -  nodemon | -  Redis |
+| -  Sucrase | -  MongoDB |
+| -  Docker | -  Mongoose |
+| -  Sequelize | -  JWT |
+| -  VS Code with ESLint | |
+</center>
 
 <!-- Markdown link & img dfn's -->
 
