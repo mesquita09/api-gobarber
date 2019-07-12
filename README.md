@@ -13,15 +13,13 @@ Project developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br
 
 ## Languages and Tools
 
-<center>
-| -  Node.js | -  PostgreSQL |
-| -  Express | -  node |
-| -  nodemon | -  Redis |
-| -  Sucrase | -  MongoDB |
-| -  Docker | -  Mongoose |
-| -  Sequelize | -  JWT |
-| -  VS Code with ESLint | |
-</center>
+| - Node.js | - PostgreSQL |
+| - Express | - node |
+| - nodemon | - Redis |
+| - Sucrase | - MongoDB |
+| - Docker | - Mongoose |
+| - Sequelize | - JWT |
+| - VS Code with ESLint | |
 
 <!-- Markdown link & img dfn's -->
 
