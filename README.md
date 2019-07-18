@@ -1,6 +1,12 @@
-# GoBarber App
+<!-- PROJECT LOGO -->
+<p align="center">
 
-Backend with Node.js
+## GoBarber App
+
+</p>
+<br />
+
+<!-- PROJECT SHIELDS -->
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d20792ff896d4ab2981307d37e88c19f)](https://app.codacy.com/app/mesquita09/api-gobarber?utm_source=github.com&utm_medium=referral&utm_content=mesquita09/api-gobarber&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status][travis-image]][travis-url]
@@ -13,19 +19,21 @@ Project developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br
 
 ## Languages and Tools
 
-- Node.js
-- Express
-- node
-- nodemon
-- Redis
-- Sucrase
-- MongoDB
-- PostgreSQL
-- Docker
-- Mongoose
-- Sequelize
-- JWT
-- VS Code with ESLint
+<ul>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>node</li>
+  <li>nodemon</li>
+  <li>Redis</li>
+  <li>Sucrase</li>
+  <li>MongoDB</li>
+  <li>PostgreSQL</li>
+  <li>Docker</li>
+  <li>Mongoose</li>
+  <li>Sequelize</li>
+  <li>JWT</li>
+  <li>VS Code with ESLint</li>
+</ul>
 
 <!-- Markdown link & img dfn's -->
 
