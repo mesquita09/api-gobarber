@@ -8,11 +8,11 @@
 <h4 align="center">
   Project developed at the <a href='https://rocketseat.com.br/bootcamp'>RocketSeat GoStack Bootcamp</a> using Node.js for a barber shop scheduling app.
 </h4>
+<p align="center">
   <a href="https://app.codacy.com/app/mesquita09/api-gobarber?utm_source=github.com&utm_medium=referral&utm_content=mesquita09/api-gobarber&utm_campaign=Badge_Grade_Dashboard">
     <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/d20792ff896d4ab2981307d37e88c19f">
   </a>
 
-  <p align="center">
   <a href="https://travis-ci.org/dbader/node-datadog-metrics">
     <img alt="Codacy grade" src="https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square">
   </a>
