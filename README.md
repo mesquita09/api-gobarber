@@ -1,9 +1,10 @@
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO AND TITLE-->
 <h1 align="center">
     <br>
     GoBarber API
 </h1>
 <br />
+
 <!-- PROJECT SHIELDS -->
 <h4 align="center">
   Project developed at the <a href='https://rocketseat.com.br/bootcamp'>RocketSeat GoStack Bootcamp</a> using Node.js for a barber shop scheduling app.
@@ -32,6 +33,8 @@
 
 <br />
 
+<!-- PROJECT DESCRIPTION -->
+
 ## Languages and Tools
 
 <ul>
@@ -49,14 +52,3 @@
   <li>JWT</li>
   <li>VS Code with ESLint</li>
 </ul>
-
-<!-- Markdown link & img dfn's -->
-
-[language-image]: https://img.shields.io/github/languages/top/mesquita09/api-gobarber.svg
-[languagecount-image]: https://img.shields.io/github/languages/count/mesquita09/api-gobarber.svg
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[lastcommit-image]: https://img.shields.io/github/last-commit/mesquita09/api-gobarber.svg
-[lastcommit-url]: https://github.com/mesquita09/api-gobarber/commits/master
-[issues-image]: https://img.shields.io/github/issues/mesquita09/api-gobarber.svg
-[issues-url]: https://github.com/mesquita09/api-gobarber/issues
