@@ -9,7 +9,7 @@ Backend with Node.js
 [![Last Commit][lastcommit-image]][lastcommit-url]
 [![Issues][issues-image]][issues-url]
 
-Project developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br) using Node.js for a barber scheduling app.
+Project developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br) using Node.js for a barber shop scheduling app.
 
 ## Languages and Tools
 
